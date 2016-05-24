@@ -1,0 +1,29 @@
+*{
+    font-family: 'Indie Flower', cursive;
+}
+.container{
+    background-color: #00FFFF;
+    text-align: center;
+    color: #FF1493;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size : 50px;
+    
+}
+.row{
+    font-size : 30px;
+    color : #BA55D3;
+}
+.colour{
+    font-size : 25px;
+    text-align: center;
+    color : blue;
+}
+.holiday{
+   color : red; 
+}
+.birthday{
+    color: green;
+}
